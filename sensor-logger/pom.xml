@@ -8,5 +8,6 @@
   	<module>sensor-logger-model</module>
   	<module>sensor-logger-usecases</module>
   	<module>sensor-logger-contracts</module>
+  	<module>external/jpa-repository</module>
   </modules>
 </project>

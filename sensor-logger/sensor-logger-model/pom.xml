@@ -5,5 +5,7 @@
     <artifactId>sensor-logger</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
+  
+  
   <artifactId>sensor-logger-model</artifactId>
 </project>
